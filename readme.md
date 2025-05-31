@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderplover&label=Profile%20views&color=0e75b6&style=flat" alt="coderplover" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ploverapp.vercel.app/](https://ploverapp.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://ploverapp.vercel.app/](https://ploverapp.vercel.app/)
 
 - 💬 Ask me about **Hello, I am 18 years old and I am interested in programming languages and technologies. I have been learning and practicing languages such as html, css, ui/ux design, javascript, python, node.js, discord.js, and discord.py for a long time. I have particularly gained experience in web design and development. Additionally, I have developed custom bots for discord servers using node.js and discord.js, and I have worked on data analytics and machine learning projects using python. I began my journey in software development 4 years ago and I have been constantly trying to improve myself during this time. I consider it very important to apply everything I learn and use it in real-life scenarios. Furthermore, I regularly read and follow updates on programming languages and technologies. Lastly, I am continuously working on software-related projects and trying to improve myself in this field. I want to make a career in this area in the future.**
 
